@@ -1,1 +1,1 @@
-# swagger-p3-pae
+# Lab 3: API  documentation with Swagger
